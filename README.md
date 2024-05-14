@@ -5,7 +5,7 @@ Sou apaixonado por programação, inteligência artificial e desenvolvimento de 
 
 ⚒️ Habilidades
 
-✔️💻 Formação em Lógica de Programação
+✔️💻🧠 Formação em Lógica de Programação
 
 ✔️💻🧠 Formação em Fundamentos da IA
 
