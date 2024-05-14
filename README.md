@@ -7,7 +7,7 @@ Sou apaixonado por programação, inteligência artificial e desenvolvimento de 
 
 ✔️💻 Formação em Lógica de Programação
 ✔️💻🧠 Formação em Fundamentos da IA
-✔️💻 Formação em Python
+✔️💻 Formação em Python [![My Skills](https://skillicons.dev/icons?py,wasm)]
 
 
 
