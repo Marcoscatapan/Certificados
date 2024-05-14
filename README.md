@@ -12,11 +12,15 @@ Sou apaixonado por programação, inteligência artificial e desenvolvimento de 
 ✔️💻 Formação em Python 
 
 
+
 📚 Idiomas
 
 ✔️Potuguês fluente
+
 ✔️Inglês intermediário
+
 ✔️Italiano fluente
+
 
 📲 Conecte-se comigo
 
