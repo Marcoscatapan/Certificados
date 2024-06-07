@@ -28,3 +28,4 @@ Sou apaixonado por programação, inteligência artificial e desenvolvimento de 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_catapan/)
 
+https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge
