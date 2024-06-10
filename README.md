@@ -11,11 +11,7 @@ Sou apaixonado por programação, inteligência artificial e desenvolvimento de 
 
 ✔️💻 Formação em Python 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,py" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=ai,py&perline=1)](https://skillicons.dev)
 
 
 
