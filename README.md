@@ -5,7 +5,7 @@ Sou apaixonado por programação, inteligência artificial e desenvolvimento de 
 
 ⚒️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,ai&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,ai,mysql&perline=3)](https://skillicons.dev)
 
 
 📚 Idiomas
