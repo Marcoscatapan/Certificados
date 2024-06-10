@@ -16,6 +16,7 @@ Sou apaixonado por programação, inteligência artificial e desenvolvimento de 
 
 ✔️Italiano fluente
 
+[![My Skills](https://skillicons.dev/icons?i=portugues, ingles italiano&perline=3)](https://skillicons.dev)
 
 📲 Conecte-se comigo
 
