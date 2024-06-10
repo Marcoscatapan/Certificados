@@ -6,8 +6,6 @@ Sou apaixonado por programação, inteligência artificial e desenvolvimento de 
 ⚒️ Skills
 
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,ai&perline=3)](https://skillicons.dev)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 📚 Idiomas
 
