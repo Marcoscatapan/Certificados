@@ -13,7 +13,7 @@ Sou apaixonado por programação, inteligência artificial e desenvolvimento de 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py" />
+    <img src="https://skillicons.dev/icons?i=ai,py" />
   </a>
 </p>
 
