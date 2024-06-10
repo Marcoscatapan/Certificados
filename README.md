@@ -1,4 +1,4 @@
-Olá, sou o Marquinho!🙋‍♂️
+🌟 Explorando o Universo da Tecnologia: Um Perfil Sobre Mim 🚀
 
 Me chamo Marcos Vinicius Catapan e sou formado em Gestão empresarial pela Uninter.
 Sou apaixonado por programação, inteligência artificial e desenvolvimento de programas. Meu objetivo é aprender e aprimorar cada vez mais minhas habilidades nessa área para poder compartilhar meus conhecimentos com outras pessoas e desenvolver novas idéias. Vamos trocar ideias e crescer juntos nesse universo da tecnologia! 🚀💻
@@ -7,7 +7,7 @@ Sou apaixonado por programação, inteligência artificial e desenvolvimento de 
 
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,visualstudio,ai&perline=4)](https://skillicons.dev)
 
-📚 Idiomas
+📚 Languages
 
 ✔️Potuguês fluente
 
@@ -15,7 +15,7 @@ Sou apaixonado por programação, inteligência artificial e desenvolvimento de 
 
 ✔️Italiano fluente
 
-📲 Conecte-se comigo
+📲 Contact-me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-catapan-b766b1305/)
 
