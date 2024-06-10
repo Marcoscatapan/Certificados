@@ -16,8 +16,6 @@ Sou apaixonado por programação, inteligência artificial e desenvolvimento de 
 
 ✔️Italiano fluente
 
-[![My Skills](https://skillicons.dev/icons?i=portugues, ingles italiano&perline=3)](https://skillicons.dev)
-
 📲 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-catapan-b766b1305/)
