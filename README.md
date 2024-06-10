@@ -11,11 +11,11 @@ Sou apaixonado por programação, inteligência artificial e desenvolvimento de 
 
 📚 Languages
 
-- Potuguês fluente
+Potuguês fluente
 
-- Italiano Fluente
+Italiano Fluente
 
-- Inglês intermediário
+Inglês intermediário
 
 
 📲 Contact-me
