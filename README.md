@@ -13,9 +13,9 @@ Sou apaixonado por programação, inteligência artificial e desenvolvimento de 
 
 ✔️Potuguês fluente
 
-✔️Inglês intermediário
+✔️Italiano Fluente
 
-✔️Italiano fluente
+✔️Inglês intermediário
 
 
 📲 Contact-me
