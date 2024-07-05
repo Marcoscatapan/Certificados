@@ -1,6 +1,6 @@
 # 🌟 Explorando o Universo da Tecnologia: Um Perfil Sobre Mim 🚀
 
-Me chamo Marcos Vinicius Catapan e sou formado em Gestão empresarial pela Uninter e cursando pós-graduação em Ciência de dados pela Uniasselvi.
+Me chamo Marcos Vinicius Catapan e sou formado em Gestão empresarial pela Uninter e cursando pós-graduação em Ciência de Dados pela Uniasselvi.
 Sou apaixonado por programação, inteligência artificial e desenvolvimento de programas. Meu objetivo é aprender e aprimorar cada vez mais minhas habilidades nessa área para poder compartilhar meus conhecimentos com outras pessoas e desenvolver novas idéias. Vamos trocar ideias e crescer juntos nesse universo da tecnologia! 🚀💻
 
 
