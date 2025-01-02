@@ -1,20 +1,26 @@
-# 🌟 Explorando o Universo da Tecnologia: Um Perfil Sobre Mim 🚀
+# MARCOS VINICIUS CATAPAN
 
-Me chamo Marcos Vinicius Catapan e sou formado em Gestão empresarial pela Uninter e cursando Graduação em Ciências da Computação pela ETEP, e pós-Graduação em Ciência de dados pela Famart.
-Sou apaixonado por programação, inteligência artificial e desenvolvimento de programas, mas principalmente por manipulação e interpretação de dados. Meu objetivo é aprender e aprimorar cada vez mais minhas habilidades nessa área para poder compartilhar meus conhecimentos com outras pessoas e desenvolver novas idéias. Vamos trocar ideias e crescer juntos nesse universo da tecnologia! 🚀💻
+💻 Data Analyst 📊
+
+🎓 Studying for a degree in Computer Science  📈
+
+🎓 Studying a postgraduate degree in Data Science and Big Data 📊
+
+ "Talk is cheap, show me the code" Linus Torvalds 
 
 
 ⚒️ Skills
 
 ![My Skills](https://skillicons.dev/icons?i=py,mysql,ai,visualstudio&perline=4)
 
+
 📚 Languages
 
-Potuguês fluente
+Fluent Portuguese
 
-Italiano Fluente
+Fluent Italian
 
-Inglês intermediário
+Intermediate English
 
 
 📧 Contact-me
