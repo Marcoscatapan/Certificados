@@ -11,7 +11,7 @@
 
 ⚒️ Skills
 
-![My Skills](https://skillicons.dev/icons?i=py,powerbi,mysql,ai,visualstudio&perline=4)
+![My Skills](https://skillicons.dev/icons?i=py,mysql,ai,visualstudio&perline=4)
 
 
 📚 Languages
