@@ -11,7 +11,7 @@
 
 ⚒️ Skills
 
-![My Skills](https://skillicons.dev/icons?i=py,mysql,ai,visualstudio&perline=4) http://purl.org/dc/dcmitype/StillImage
+![My Skills](https://skillicons.dev/icons?i=py,mysql,ai,visualstudio&perline=4)
 
 📚 Languages
 
