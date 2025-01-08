@@ -6,6 +6,8 @@
 
 🎓 Studying a postgraduate degree in Data Science and Big Data 📊
 
+Data-driven professional with a passion for transforming raw data into actionable insights. Successfully developed dashboards at Paraná Educação to monitor educational KPIs, leading to improved decision-making and process efficiency. Seeking a new role to apply my skills in a fast-paced environment and contribute to innovative data-driven projects.
+
  "Talk is cheap, show me the code" Linus Torvalds 
 
 
