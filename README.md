@@ -1,6 +1,5 @@
 # 🎓 MINHAS CONQUISTAS!!!
-
-Bem-vindo ao repositório dedicado as minhas conquistas! Aqui você encontrará minha coleção de certificados que representam tanto meu aprendizado quanto o esforço que dediquei e continuo dedicando à minha jornada.
+Este repositório é dedicado as minhas conquistas! Aqui você encontrará minha coleção de certificados que representam tanto meu aprendizado quanto o esforço que dediquei e continuo dedicando à minha jornada.
 
 ✨ Importância dos Certificados
 
