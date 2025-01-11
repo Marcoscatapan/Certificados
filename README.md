@@ -1,8 +1,8 @@
 # 🎓 MINHAS CONQUISTAS!!!
 
-Bem-vindo a parte deste repositório dedicado as minhas conquistas! Aqui você encontrará minha coleção de certificados que representam tanto meu aprendizado quanto o esforço que dediquei e continuo dedicando à minha jornada.
+Bem-vindo ao repositório dedicado as minhas conquistas! Aqui você encontrará minha coleção de certificados que representam tanto meu aprendizado quanto o esforço que dediquei e continuo dedicando à minha jornada.
 
-✨Importância dos Certificados
+✨ Importância dos Certificados
 
 Mais do que uma simples documentação, os certificados simbolizam:
 
